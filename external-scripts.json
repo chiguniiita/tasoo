@@ -1,4 +1,5 @@
 [
+  "hubot-general-message",
   "hubot-lgtm",
   "hubot-diagnostics",
   "hubot-help",
