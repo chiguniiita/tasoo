@@ -8,6 +8,7 @@
     "cheerio": "^0.20.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
+    "hubot-general-message": "git://github.com/chiguniiita/hubot-general-message.git",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
