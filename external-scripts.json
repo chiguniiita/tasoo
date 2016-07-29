@@ -1,4 +1,5 @@
 [
+  "hubot-channel-created-notify",
   "hubot-general-message",
   "hubot-lgtm",
   "hubot-diagnostics",

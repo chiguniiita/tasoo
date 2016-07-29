@@ -7,6 +7,7 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "hubot": "^2.19.0",
+    "hubot-channel-created-notify": "git://github.com/chiguniiita/hubot-channel-created-notify.git#fix-not-working",
     "hubot-diagnostics": "0.0.1",
     "hubot-general-message": "git://github.com/chiguniiita/hubot-general-message.git",
     "hubot-google-images": "^0.2.6",
